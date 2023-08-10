@@ -1,2 +1,3 @@
 # currency
-api examples 
+## api examples 
+### it's useful to exercise api 
